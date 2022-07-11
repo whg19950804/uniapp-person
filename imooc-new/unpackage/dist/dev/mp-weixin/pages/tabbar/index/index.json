@@ -1,0 +1,10 @@
+{
+  "navigationStyle": "custom",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "navbar": "/components/navbar/navbar",
+    "navlist": "/components/navlist/navlist",
+    "scroll": "/components/scroll/scroll",
+    "list-card": "/components/list-card/list-card"
+  }
+}
